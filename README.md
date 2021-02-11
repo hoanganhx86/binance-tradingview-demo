@@ -44,6 +44,6 @@ All set we can run the application derectly in xcode and test the result.
 
 >
 
-**Xcode prject structure after add all the files from `build` folder to its html group**
+**Xcode prject structure after adding all the files from the `build` folder to its html group**
 
 > ![xcode-project-structure](files-added-from-build-folder.png)
