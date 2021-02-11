@@ -36,7 +36,8 @@ At `reactjs-app` run:
     yarn build
 
 Then open xcode and add all the files inside `reactjs-app/build` folder to the `html` group in xcode project.
-All set we can run the application derectly in xcode and test the result.
+
+All set and ready to run the application directly in Xcode.
 
 **React js build folder output after running `yarn build`**
 
